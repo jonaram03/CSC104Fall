@@ -1,0 +1,26 @@
+/* These styles will be applied to the whole page */
+body{
+	background-color: rgb(255, 243, 187);
+	color: blue;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* These styles will be applied to the page title */
+h1{
+	color: red;
+	font-size: xx-large;
+}
+
+h2{
+	color: red;
+	font-size: x-large;
+}
+
+h3{
+	color: red;
+	font-size: x-large;
+}
+
+p{
+	font-size: large;
+}
